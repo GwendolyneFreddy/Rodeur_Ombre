@@ -1,0 +1,133 @@
+@0 = ~Installation du Kit : Rôdeur de l'ombre~
+@1 = ~Rôdeur de l'ombre~
+@2 = ~RÔDEUR DE L'OMBRE :
+
+Les rôdeurs de l'ombre forment une secte secrète affiliée aux Druides de l'ombre. Ils prônent le pouvoir de la nuit et des ombres qui la peuplent, et n'hésitent pas à recourir à des ruses machiavéliques pour parvenir à leur fin. Ils vénèrent en général la sombre déesse Shar et murmurent son nom lorsqu'ils tranchent la gorge de leurs adversaires dans la pénombre. Les Rôdeurs de l'ombre sont de dangereux combattants capables de faire appel aux ombres pour les épauler...
+
+Avantages :
+
+- Aux niveaux, 1, 6, 12, 18, 24, 30 et 36, le Rôdeur de l'ombre gagne la capacité Détection des illusions
+- Aux niveaux, 15, 21 et 28 le Rôdeur peut faire appel à 3 ombres
+- Aux niveaux, 10, 16 et 22, 28 et 34 le Rôdeur de l'ombre gagne la capacité Convocation de loup de l'ombre
+- Aux niveaux, 2, 6, 10, 14, 18, 22, 26, 30, 35 et 39 le Rôdeur de l'ombre obtient un bonus de +5 pour le déplacement silencieux et le camouflage dans l'ombre
+
+Désavantages :
+
+- Le Rôdeur de l'ombre ne peut utiliser que les épées courtes, les dagues, les arcs courts, les arbalètes légères, les bâtons, les fléchettes et les frondes.
+- Le Rôdeur de l'ombre ne peut pas porter d'armures métalliques.~
+@3 = ~Détection des illusions~
+@4 = ~Convocation d'ombres~
+@5 = ~Convocation de loup de l'ombre~
+@6 = ~+5 pour se cacher dans l'ombre et au déplacement silencieux~
+@7 = ~Convocation de l'ombre démoniaque~
+@8 = ~Convocation de l'ombre démoniaque
+
+L'ombre démoniaque est la créature la plus perverse et la plus vicieuse qui peuple les ombres de Féérune... Elle n'apparaît que la nuit et détruit ses proies en absorbant leurs forces vitales...~
+@9 = ~Fusion avec les ombres~
+@10 = ~Fusion avec les ombres
+
+La fusion avec les ombres permet au Rôdeur de se rendre immédiatement invisible, comme par un sort d'Invisibilité Majeure, et le rend indétectable par des sorts de Divination tels que Vision Véritable. Seuls les Rôdeurs de l'ombre de haut niveau peuvent user de cette technique machiavélique...~
+@11 = ~Convocation de Déva déchu~
+@12 = ~Convocation de Déva déchu
+Niveau : Quête
+Portée : 40 m
+Durée : 4 rounds + 1 round / niveau
+Temps d'incantation : 5
+Zone d'effet : spéciale
+Jet de sauvegarde : non
+
+Ce sort ouvre un portail céleste par lequel passe une déva qui vient combattre aux côtés du lanceur pour la durée du sort ou jusqu'à sa mort.~
+
+ // WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "
