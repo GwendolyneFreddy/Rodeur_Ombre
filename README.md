@@ -26,6 +26,26 @@
 
 Courte description du mod : Ce mod... ou L'objet de ce mod...
 
+<details><summary>Description du profil</summary>
+<p>
+
+RÔDEUR DE L'OMBRE : Les rôdeurs de l'ombre forment une secte secrète affiliée aux Druides de l'ombre. Ils prônent le pouvoir de la nuit et des ombres qui la peuplent, et n'hésitent pas à recourir à des ruses machiavéliques pour parvenir à leur fin. Ils vénèrent en général la sombre déesse Shar et murmurent son nom lorsqu'ils tranchent la gorge de leurs adversaires dans la pénombre. Les Rôdeurs de l'ombre sont de dangereux combattants capables de faire appel aux ombres pour les épauler...
+
+Avantages :
+
+- Aux niveaux 1, 6, 12, 18, 24, 30 et 36, il gagne la capacité Détection des illusions.
+- Aux niveaux 2, 6, 10, 14, 18, 22, 26, 30, 35 et 39, il obtient un bonus de 5 % en Déplacement silencieux et Se cacher l'ombre
+- Aux niveaux 10, 16, 22, 28 et 34, il gagne la capacité Convocation de loup de l'ombre majeur.
+- Aux niveaux 15, 21 et 27, il peut convoquer jusqu'à 3 ombres.
+
+Désavantages :
+
+- Seuls les humains, les elfes et les demi elfes, peuvent devenir rôdeur de l'ombre.
+- Ne peut utiliser que les épées courtes, les dagues, les arcs courts, les arbalètes légères, les bâtons, les fléchettes et les frondes.
+- Ne peut pas porter d'armures métalliques.
+- Doit être d'alignement loyal mauvais ou neutre mauvais.
+</p><br>
+</details>
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
 
