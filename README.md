@@ -187,7 +187,6 @@ Description du composant 20.</br>
 - bidule pour son aide dans la rédaction des dialogues.
 - xxx pour la traduction française.
 - yyy pour la relecture.
-- Merci aux artistes de portraits du site <a href="https://www.pinterest.fr/">Pinterest</a>.
 - Merci à toutes les personnes des forums de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a>, <a href="http://gibberlings3.net/forums/">The Gibberlings Three</a>, <a href="http://www.shsforums.net/">Spellhold Studios</a>, et des autres communautés de joueurs et de moddeurs IE qui m'ont offert leur aide.
 - etc.
 
@@ -199,23 +198,9 @@ Description du composant 20.</br>
 - <a href="https://github.com/Argent77/NearInfinity/releases">Near Infinity</a> de Jon Olav Hauglid, FredSRichardson et Argent77.
 - <a href="http://www.shsforums.net/topic/31285-infinity-explorer-v085/">Infinity Explorer</a> de Dmitry Jemerov / bigmoshi.
 - <a href="http://www.gibberlings3.net/tools/dltcep.php"><acronym title="Dragonlance Total Conversion Editor Pro">DLTCEP</acronym></a> de Avenger.
-- <a href="http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=85">CreMaker_v3.1.9</a>.
 - <a href="https://gibberlings3.github.io/iesdp/"><acronym title="Infinity Engine Structures Description Project">IESDP</acronym></a> maintenu par igi et lynx.
-- <a href="http://www.gibberlings3.net/debug/">G3 Debugging Suite</a> de CamDawg.
-- <a href="http://www.teambg.eu/?page=tools&amp;cat=32">BAM Workshop</a> de Glenn Flansburg.
-- <a href="http://www.shsforums.net/topic/57564-bamworkshop/">BAMWorkshop 2</a> de Andrew Bridges.
-- <a href="http://www.shsforums.net/index.php?showtopic=42359">BAM Batcher</a> de Miloch.
-- <a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a>
-- <a href="http://www.gimp.org/"><acronym title="GNU Image Manipulation Program">GIMP</acronym></a> par l'équipe de the GIMP.
-- <a href="http://www.gamani.com/">GIF Movie Gear</a>
-- <a href="https://www.blender.org/">Blender</a> par la Fondation Blender.
-- <a href="https://www.autodesk.com/products/3ds-max/overview">3ds Max</a>
 - <a href="http://notepad-plus-plus.org/">Notepad++</a> par l'équipe de Notepad++, Don Ho, et le plug-in de correction orthographique.
 - <a href="http://www.shsforums.net/files/file/1048-weidu-highlighter-for-notepad/">WeiDU Notepad++ Highlighters </a> de Argent77.
-- <a href="http://www.context.cx/">ConTEXT Text Editor</a> de Eden Kirin.
-- <a href="https://www.gibberlings3.net/mods/tools/weidu/">WeiDU ConTEXT Highlighters </a> de Idobek, mis à jour par cmorgan.
-- <a href="http://www.editpadpro.com/editpadclassic.html">EditPad Classic</a> de Jan Goyvaerts.
-- <a href="http://www.pspad.com/en/">PSPad</a> de Jan Fiala.
 - <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a> de TGRMN Software.
 
 ## 
@@ -248,6 +233,8 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 #### Version 1.2 ( Mai 2020)
 
+- Abilities: fixed wrong innate spell level (set to 1).
+- Replaced Rastor's mod prefix ("**r!**") with more accurate French community one ("**fr**").
 - Lower cased files.
 - Reorganized mod architecture tree: created folders to sort files according to their types and renamed top folder *r!ombre* -> *fr_ombre*.
 
