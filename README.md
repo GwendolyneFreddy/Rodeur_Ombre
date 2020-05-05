@@ -5,7 +5,8 @@
 
 <div align="center"><h1>Le Rôdeur de l'ombre</h1>
 
-<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour Baldur's Gate II: ToB, BGT, BG:EE, BG2:EE, EET et IWD:EE<h3>
+<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour Baldur's Gate II: ToB (classique et EE),<br>
+Baldur's Gate Trilogy, EET, BG:EE and IWD:EE<h3>
 
 </div><br />
 
@@ -14,6 +15,12 @@
 **Langues :** français, <a href="README_EN.md">anglais</a>, russe  
 **Forum du mod :** <a href="https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12359-kit-rodeur-de-l-ombre-rodeur.html">Le Rôdeur de l'ombre</a><br /><br />
 
+
+[Lisez-moi du mod](http://gwendolynefreddy.github.io/docs/lcc/rodeur_ombre-readme-french.html)
+
+[Téléchargez le mod sur La Couronne de Cuivre]()<br>
+
+&nbsp;
 
 <div align="center">
 <a href="#intro">Présentation</a> &#8226; <a href="#compat">Compatibilité</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#components">Composants</a> &#8226; <a href="#credits">Crédits et remerciements</a> &#8226; <a href="#versions">Historique des versions</a></br>
