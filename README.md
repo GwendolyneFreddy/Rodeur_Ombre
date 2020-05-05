@@ -236,7 +236,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 ## 
 
-#### Version beta 1.0 (8 décembre 2004)
+#### Version 1.0 (8 décembre 2004)
 
-- Sortie initiale.
+- Initial release.
 <div align="right"><a href="#top">Retour en haut de page</a></div>
