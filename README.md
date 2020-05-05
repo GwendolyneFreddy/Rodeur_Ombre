@@ -3,20 +3,20 @@
 ![Platform](https://img.shields.io/static/v1?label=plateforme&message=windows&color=informational)
 ![Language](https://img.shields.io/static/v1?label=langues&message=Anglais%20%7C%20Français%20&color=limegreen)
 
-<div align="center"><h1>Le Rôdeur de l'Ombre</h1>
+<div align="center"><h1>Le Rôdeur de l'ombre</h1>
 
 <h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour Baldur's Gate II: ToB, BGT, BG2:EE et EET<h3>
 
 </div><br />
 
 
-**Auteur(e) :** <a href="https://www.baldursgateworld.fr/lacouronne/Auteur.html">bibi</a>  
+**Auteur(e) :** esprit  
 **Langues :** français, <a href="README_EN.md">anglais</a>  
-**Forum du mod :** <a href="https://www.baldursgateworld.fr/lacouronne/mymod/">MYMOD</a><br /><br />
+**Forum du mod :** <a href="https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12359-kit-rodeur-de-l-ombre-rodeur.html">Le Rôdeur de l'ombre</a><br /><br />
 
 
 <div align="center">
-<a href="#intro">Présentation</a> &#8226; <a href="#compat">Compatibilité</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#components">Composants</a> &#8226; <a href="#componentslist">Composants (présentation alternative</a> &#8226; <a href="#images">Captures d'écran</a> &#8226; <a href="#credits">Crédits et remerciements</a> &#8226; <a href="#versions">Historique des versions</a></br>
+<a href="#intro">Présentation</a> &#8226; <a href="#compat">Compatibilité</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#components">Composants</a> &#8226; <a href="#credits">Crédits et remerciements</a> &#8226; <a href="#versions">Historique des versions</a></br>
 </div>
 
 <hr>
@@ -130,70 +130,42 @@ Le programme d'installation comprend les composants suivants. Chacun possède un 
 
 Description du composant principal.</br>
 
+RÔDEUR DE L'OMBRE:
+
+Les rôdeurs de l'ombre forment une secte secrète qui prône le pouvoir de la nuit et des ombres qui la peuple. Ils n'hésitent pas à recourir à des ruses machiavélique pour parvenir à leur fin. Ils vénèrent en général la sombre déeesse Shar et murmure son nom lorsqu'ils tranchent la gorge de leurs adversaire dans la pénombre. Les Rôdeurs de l'ombre sont de dangereux combatants capable de faire appel aux ombres pour les épauler...
+
+Restrictions :
+
+- seuls les humains, les elfes, et les demi elfes, peuvent devenir rôdeur de l'ombre
+- Alignement Loyal ou Neutre mauvais
+
+Avantages :
+
+- Aux niveaux 1, 6, 12, 18, 24, 30 et 36, le Rôdeur de l'ombre gagne la capacité détection des illusions
+- Aux niveaux 15, 21 et 28 le Rôdeur peut faire appel à 3 ombres
+- Aux niveaux 10, 16 et 22, 28 et 34 le Rôdeur de l'ombre gagne la capacité d'invoquer deux Loups de l'ombre
+- Aux niveaux 2, 6, 10, 14, 18, 22, 26, 30, 35 et 39 le Rôdeur de l'ombre obtient un bonus de +5 pour le déplacement silencieux et le camouflage dans l'ombre
+
+Désavantages :
+
+- Le Rôdeur de l'ombre ne peut utiliser que les épées courtes, les dagues, les arcs longs, les gourdins, les bâtons, les fléchettes et les frondes.
+- Le Rôdeur de l'ombre ne peut pas porter d'armures métalliques
+
+
+Capacité de haut niveaux
+
+- Convocation de l'ombre démoniaque : L'ombre démoniaque est la créature la plu perverse et la plus vicieuse qui peuple les ombres de Féérune... Elle n'apparaît que la nuit et détruit ses proies en absorbant leurs forces vitales...
+
+
+- Fusion avec les ombres : la fusion avec les ombres permet au Rôdeur de se rendre immédiatement invisible, comme par un sort d'Invisibilité Majeure, et le rend indétectable par des sorts de Divination tels que Vision Véritable. Seul les Rôdeurs de l'ombre de haut niveau peuvent user de cette technique machiavélique...
+
+Convocation de déva déchu, coup critique, cri de guerre, pistage, poing de fer, poing d'acier, résistance de fer, mental d'acier. 
+
 ## 
 
 #### 20. Composant 20 : blabbla
 
 Description du composant 20.</br>
-
-## 
-
-#### 30. Composant 30 : blabbla
-
-Exemple de composant présentant des tableaux.
-
-| Créature | Profil | Niveau&#160;&#160;&#160;(ex) | XP&#160;&#160;&#160;(ex) | PV&#160;&#160;&#160;(ex) | Force&#160;&#160;&#160;(ex) | Constitution&#160;&#160;&#160;(ex) | Compétence martiale |
-| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Tazok | -- | <strong>19</strong>&#160;&#160;&#160;(18) | <strong>12000</strong>&#160;&#160;&#160;(6000) | <strong>154</strong>&#160;&#160;&#160;(136) | -- | -- | TWO-HANDED SWORD +++++ |
-| FIRorc01 (DigDag) | Berserker | <strong>13</strong>&#160;&#160;&#160;(12) | <strong>7000</strong>&#160;&#160;&#160;(2000) | <strong>107</strong>&#160;&#160;&#160;(99) | <strong>22</strong>&#160;&#160;&#160;(17)) | <strong>22</strong>&#160;&#160;&#160;(9) | BASTARD SWORD +++++ |
-<br>
-<div align="right"><a href="#top">Retour en haut de page</a></div>
-
-
-<hr>
-
-
-## <a name="componentslist" id="componentslist"></a>Composants (présentation alternative si vous avez beaucoup de composants)
-
-
-Le programme d'installation comprend les composants suivants. Chacun possède un numéro distinct et pré-défini qui lui attribue une position déterminée (mot-clé *DESIGNATED* en langage WeiDU) ; ce qui permet aux autres composants de le détecter et aux utilitaires d'installation automatiques de préciser quels composants installer.<br /><br />
-
-><span style="margin-left: 50px;"><a href="#10">[10] Composant 10 (composant principal)</a></span></br>
-><span style="margin-left: 50px;"><a href="#20">[20] Composant 20</a></span></br>
-><span style="margin-left: 50px;"><a href="#50">[30] Composant 30</a></span></br>
-><span style="margin-left: 50px;"><a href="#40">[40] ...</a></span></br>
-
-
-## 
-
-<a name="10" id="10"></a>**10. Composant 10 (composant principal)**<br />
-
-Description du composant principal.</br>
-<div align="right"><a href="#componentslist">Back to components list</a></div>
-
-## 
-
-<a name="10" id="20"></a>**20. Composant 20**<br />
-
-Description du composant 20.</br>
-<div align="right"><a href="#componentslist">Back to components list</a></div>
-
-## 
-
-<a name="30" id="10"></a>**30. Composant 30**<br />
-
-Description du composant 30.</br>
-<div align="right"><a href="#componentslist">Back to components list</a></div>
-
-
-<hr>
-
-
-## <a name="images" id="images"></a>Captures d'écran
-
-<img src="images/baldr000.jpg">
-<img src="images/baldr001.jpg"></br>
-<div align="right"><a href="#top">Retour en haut de page</a></div>
 
 
 <hr>
@@ -277,6 +249,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 #### Version 1.2 ( Mai 2020)
 
 - Lower cased files.
+- Reorganized mod architecture tree: created folders to sort files according to their types and renamed top folder *r!ombre* -> *fr_ombre*.
 
 ## 
 

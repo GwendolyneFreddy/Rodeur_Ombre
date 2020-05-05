@@ -1,14 +1,14 @@
-BACKUP ~r!ombre/backup~
-AUTHOR ~Esprit - duracuir@hotmail.com~
+BACKUP ~fr_ombre/backup~
+AUTHOR ~esprit - duracuir@hotmail.com~
 
 
 LANGUAGE ~Francais~
 		 ~french~
-		 ~r!ombre/TRA/French/R!O_FRA.tra~
+		 ~fr_ombre/TRA/French/R!O_FRA.tra~
 
 LANGUAGE ~Francais pour les editions EE~
 		 ~french~
-		 ~r!ombre/TRA/French EE/R!O_FRA.tra~
+		 ~fr_ombre/TRA/French EE/R!O_FRA.tra~
 
 
 /* =================== *
@@ -58,7 +58,7 @@ ADD_KIT ~RIOmb~
 // DUALCLASS.2DA        FIG     CLE     MAG     THI     DRU     RAN
 ~RIOmb                   0       0       0       0       0       0~							// Possibilités de jumelage.
 // KIT ABILITIES 2DA FILE (path to CLAB-type file)
-~r!ombre/2da/r!ombre.2da~																	// Habilités gagnées par niveau.
+~fr_ombre/2da/r!ombre.2da~																	// Habilités gagnées par niveau.
 // RACIAL KIT AVAILABILITY___________________________________________________________
 // KITTABLE.2DA    P = Paladin - H = Humain - E = Elf - HE = Half-Elf - HL = Halfling
 ~K_R_H K_R_E K_R_HE~																		// Races et classes acceptant le kit.
@@ -134,7 +134,7 @@ LAF fl#add_kit_ee
 //		crippstr	= ~~
 END
 
-COPY ~r!ombre/2da/lurio.2da~  ~override~
+COPY ~fr_ombre/2da/lurio.2da~  ~override~
 
 /* ------------------------------------------------- *
  *  Install Special Abilities (capacités spéciales)  *
@@ -142,21 +142,21 @@ COPY ~r!ombre/2da/lurio.2da~  ~override~
 
 // Détection des illusions
 // -----------------------
-COPY ~r!ombre/spells/spcro01.spl~	~override~
+COPY ~fr_ombre/spells/spcro01.spl~	~override~
 	SAY NAME1 @3
 
 // Convocation d'ombres
 // --------------------
-COPY ~r!ombre/spells/spcro02.spl~	~override~
+COPY ~fr_ombre/spells/spcro02.spl~	~override~
 	SAY NAME1 @4
 
 // Convocation de loup effrayant
-COPY ~r!ombre/spells/spcro03.spl~	~override~
+COPY ~fr_ombre/spells/spcro03.spl~	~override~
 	SAY NAME1 @5
 
 // Bonus : +5 % se cacher dans l'ombre et déplacement silencieux
 // -------------------------------------------------------------
-COPY ~r!ombre/spells/spcro04.spl~	~override~
+COPY ~fr_ombre/spells/spcro04.spl~	~override~
 	SAY NAME1 @6
 
 /* -------------- *
@@ -165,18 +165,18 @@ COPY ~r!ombre/spells/spcro04.spl~	~override~
 
 // Convocation de l'ombre démoniaque
 // ---------------------------------
-COPY ~r!ombre/chn/chnro01.spl~	~override~
+COPY ~fr_ombre/chn/chnro01.spl~	~override~
 	SAY NAME1 @7
 	SAY UNIDENTIFIED_DESC @8
 
 // Fusion avec les ombres
 // ----------------------
-COPY ~r!ombre/chn/chnro02.spl~	~override~
+COPY ~fr_ombre/chn/chnro02.spl~	~override~
 	SAY NAME1 @9
 	SAY UNIDENTIFIED_DESC @10
 
 // Convocation de déva
 // -------------------
-COPY ~r!ombre/chn/chnro03.spl~	~override~
+COPY ~fr_ombre/chn/chnro03.spl~	~override~
 	SAY NAME1 @11
 	SAY UNIDENTIFIED_DESC @12
