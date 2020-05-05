@@ -16,6 +16,7 @@ LANGUAGE ~Francais pour les editions EE~
  * ================================================= */
 BEGIN @0
 DESIGNATED 0 LABEL ~rodeur_de_l_ombre~
+REQUIRE_PREDICATE GAME_IS ~tob bgt bgee bg2ee eet iwdee~ @1 /* You must have ToB, BGT,BG:EE, BG2:EE, IWD:EE or EET installed to install this mod. */
 
 
 /* ------------- *
