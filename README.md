@@ -26,7 +26,9 @@
 
 Courte description du mod : Ce mod... ou L'objet de ce mod...
 
-<details><summary>Description du profil</summary>
+&nbsp;
+
+<details><summary><ins>Description du profil</ins></summary>
 <p>
 
 RÔDEUR DE L'OMBRE : Les rôdeurs de l'ombre forment une secte secrète affiliée aux Druides de l'ombre. Ils prônent le pouvoir de la nuit et des ombres qui la peuplent, et n'hésitent pas à recourir à des ruses machiavéliques pour parvenir à leur fin. Ils vénèrent en général la sombre déesse Shar et murmurent son nom lorsqu'ils tranchent la gorge de leurs adversaires dans la pénombre. Les Rôdeurs de l'ombre sont de dangereux combattants capables de faire appel aux ombres pour les épauler...
@@ -146,46 +148,10 @@ En plus des méthodes détaillées plus haut pour supprimer des composants, il est 
 Le programme d'installation comprend les composants suivants. Chacun possède un numéro distinct et pré-défini qui lui attribue une position déterminée (mot-clé *DESIGNATED* en langage WeiDU) ; ce qui permet aux autres composants de le détecter et aux utilitaires d'installation automatiques de préciser quels composants installer.<br /><br />
 
 
-#### 10. Composant 10 (composant principal)
+#### 0. Profil de Rôdeur de l'ombre (composant principal)
 
 Description du composant principal.</br>
-
-RÔDEUR DE L'OMBRE:
-
-Les rôdeurs de l'ombre forment une secte secrète qui prône le pouvoir de la nuit et des ombres qui la peuple. Ils n'hésitent pas à recourir à des ruses machiavélique pour parvenir à leur fin. Ils vénèrent en général la sombre déeesse Shar et murmure son nom lorsqu'ils tranchent la gorge de leurs adversaire dans la pénombre. Les Rôdeurs de l'ombre sont de dangereux combatants capable de faire appel aux ombres pour les épauler...
-
-Restrictions :
-
-- seuls les humains, les elfes, et les demi elfes, peuvent devenir rôdeur de l'ombre
-- Alignement Loyal ou Neutre mauvais
-
-Avantages :
-
-- Aux niveaux 1, 6, 12, 18, 24, 30 et 36, le Rôdeur de l'ombre gagne la capacité détection des illusions
-- Aux niveaux 15, 21 et 28 le Rôdeur peut faire appel à 3 ombres
-- Aux niveaux 10, 16 et 22, 28 et 34 le Rôdeur de l'ombre gagne la capacité d'invoquer deux Loups de l'ombre
-- Aux niveaux 2, 6, 10, 14, 18, 22, 26, 30, 35 et 39 le Rôdeur de l'ombre obtient un bonus de +5 pour le déplacement silencieux et le camouflage dans l'ombre
-
-Désavantages :
-
-- Le Rôdeur de l'ombre ne peut utiliser que les épées courtes, les dagues, les arcs longs, les gourdins, les bâtons, les fléchettes et les frondes.
-- Le Rôdeur de l'ombre ne peut pas porter d'armures métalliques
-
-
-Capacité de haut niveaux
-
-- Convocation de l'ombre démoniaque : L'ombre démoniaque est la créature la plu perverse et la plus vicieuse qui peuple les ombres de Féérune... Elle n'apparaît que la nuit et détruit ses proies en absorbant leurs forces vitales...
-
-
-- Fusion avec les ombres : la fusion avec les ombres permet au Rôdeur de se rendre immédiatement invisible, comme par un sort d'Invisibilité Majeure, et le rend indétectable par des sorts de Divination tels que Vision Véritable. Seul les Rôdeurs de l'ombre de haut niveau peuvent user de cette technique machiavélique...
-
-Convocation de déva déchu, coup critique, cri de guerre, pistage, poing de fer, poing d'acier, résistance de fer, mental d'acier. 
-
-## 
-
-#### 20. Composant 20 : blabbla
-
-Description du composant 20.</br>
+<div align="right"><a href="#top">Retour en haut de page</a></div>
 
 
 <hr>
@@ -193,7 +159,7 @@ Description du composant 20.</br>
 
 ## <a name="credits" id="credits"></a>Crédits et remerciements
 
-#### Auteur(e) : <a href="https://www.baldursgateworld.fr/lacouronne/members/auteur.html">Auteur</a>
+#### Auteur(e) : esprit
 
 ## 
 
@@ -201,14 +167,10 @@ Description du composant 20.</br>
 
 - L'équipe de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour l'hébergement de ce mod.
 - Les créateurs de la série Baldur's Gate : <a href="http://www.bioware.com/">Bioware</a> et <a href="http://www.obsidian.net/">Black Isle Studios</a>.
-- machin pour m'avoir donner la permission d'utiliser blabla.
-- dugland pour m'avoir aidé à coder.
-- trucmuche pour son aide dans le codage et ses suggestions.
-- bidule pour son aide dans la rédaction des dialogues.
-- xxx pour la traduction française.
-- yyy pour la relecture.
+- Deratiseur pour avoir réalisé la première version compatible EE.
+- Gingerrr and Aerie.ru pour la traduction russe.
+- The BiG World Textpack German project pour la traduction anglaise.
 - Merci à toutes les personnes des forums de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a>, <a href="http://gibberlings3.net/forums/">The Gibberlings Three</a>, <a href="http://www.shsforums.net/">Spellhold Studios</a>, et des autres communautés de joueurs et de moddeurs IE qui m'ont offert leur aide.
-- etc.
 
 ## 
 
@@ -222,6 +184,7 @@ Description du composant 20.</br>
 - <a href="http://notepad-plus-plus.org/">Notepad++</a> par l'équipe de Notepad++, Don Ho, et le plug-in de correction orthographique.
 - <a href="http://www.shsforums.net/files/file/1048-weidu-highlighter-for-notepad/">WeiDU Notepad++ Highlighters </a> de Argent77.
 - <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a> de TGRMN Software.
+- <a href="https://forums.beamdog.com/discussion/78364/infinity-auto-packager-automatically-generate-and-adds-mod-packages-to-release-when-you-publish-it">Infinity Auto Packager</a> de AL|EN.
 
 ## 
 
@@ -229,8 +192,8 @@ Description du composant 20.</br>
 
 Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
-###### Le Rôdeur de l'Ombre n'est pas développé, supporté ni approuvé par BioWare&trade; ou Interplay/Black Isle, Overhaul, Beamdog ou Wizards of the Coast. Il a été développé par AUTEUR, et est basé sur le jeu Baldur's Gate II et son extension.
-###### Tout le contenu du mod appartient à &copy;AUTEUR.
+###### Le Rôdeur de l'Ombre n'est pas développé, supporté ni approuvé par BioWare&trade; ou Interplay/Black Isle, Overhaul, Beamdog ou Wizards of the Coast. Il a été développé par esprit, et est basé sur le jeu Baldur's Gate II et son extension.
+###### Tout le contenu du mod appartient à &copy;esprit.
 ###### Baldur's Gate II : Les Ombres d'Amn et Baldur's Gate II : Trône de Bhaal appartiennent à &copy; TSR, Inc. Le moteur Infinity Engine appartient à &copy; BioWare Corp. Toutes les autres marques et droits d'auteur appartiennent à leurs propriétaires respectifs.
 
 ###### Ce mod a été créé pour être librement apprécié par tous les joueurs de Baldur's Gate II. Cependant, il ne doit pas être vendu, publié, compilé ou redistribué sous une forme quelconque sans le consentement de son auteur.
@@ -253,24 +216,35 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 #### Version 1.2 ( Mai 2020)
 
-- Added missing `REQUIRE_PREDICATE` process to avoid installing the mod in inaccurate games. 
-- Added component `DESIGNATED` number and "*rodeur_de_l_ombre*" `LABEL`. 
-- Commented code as much as possible. 
-- Added Modmerge check for SoD games. 
+- Added *fr_ombre.ini* metadata file to support AL|EN's "Project Infinity".
+- Renamed *Setup-R!Ombre.tp2* -> *fr_ombre.tp2* to support AL|EN's "Project Infinity".
+- Added `VERSION` flag.
+- Added `README` command.
+- Added missing `REQUIRE_PREDICATE` process to avoid installing the mod in inaccurate games.
+- Added component `DESIGNATED` number and "*rodeur_de_l_ombre*" `LABEL`.
+- Added `HANDLE_CHARSETS` function to convert string entries for EE games and removed useless "*French_EE*" folder.
+- Commented code as much as possible.
+- Added Modmerge check for SoD games.
 - *frombre.2da*: Fixed wrong abilities labels per level.
-- Fixed a typo which prevented to load WeiDU *fl#add_kit_ee.tpa* library. 
-- Renamed RIOmb kit label to SHADOWRANGER.
+- Fixed a typo which prevented to load WeiDU *fl#add_kit_ee.tpa* library.
+- Renamed *RIOmb* kit label to *SHADOWRANGER*.
 - Abilities: fixed wrong innate spell level (set to 1).
 - Completed and proofread kit description with missing features and requirements. Added lower cased kit name.
-- Replaced Rastor's mod prefix ("*r!*") with more accurate French community one ("*fr*").
+- Added English translation (from the BiG World Textpack German project).
+- Added Russian translation (thanks to Gingerrr and Aerie.ru).
+- Wrote *fr_ombre-readme-english.html* and *fr_ombre-readme-french.html* readme files.
 - Lower cased files.
+- Replaced Rastor's mod prefix ("*r!*") with more accurate French community one ("*fr*").
 - Reorganized mod architecture tree: created folders to sort files according to their types and renamed top folder *r!ombre* -> *fr_ombre*.
+- Included Linux and Mac Os X versions in the same package (thanks AL|EN's Infinity Auto Packager tool!).
 
 ## 
 
 #### Version 1.1 (15 octobre 2018)
 
-- Un drapeau permet de passer du readme français à l'anglais, et lycée de Versailles.
+- Added native BG2:EE and EET compatibilities.
+- Removed useless backup folder.
+- Updated WeiDU installer to v246.
 
 ## 
 

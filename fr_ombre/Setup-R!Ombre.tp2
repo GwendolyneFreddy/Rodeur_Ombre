@@ -7,18 +7,37 @@ ALWAYS
 	/* -------------------------- *
 	 *    Sod: Modmerge check.    *
 	 * -------------------------- */
-		ACTION_IF ((FILE_EXISTS ~dlc/sod-dlc.zip~) OR (FILE_EXISTS ~sod-dlc.zip~)) BEGIN FAIL @2 END
+	ACTION_IF ((FILE_EXISTS ~dlc/sod-dlc.zip~) OR (FILE_EXISTS ~sod-dlc.zip~)) BEGIN FAIL @2 END
+
+	/* ---------------------------------------------------------------------------------------------- *
+	 *    Convert strings to UTF-8 for BGEE/BG2EE                                                     *
+	 *    No exception, everything needs to be converted                                              *
+	 * -----------------------------------------------------------------------*---------------------- */
+	ACTION_DEFINE_ARRAY fr_reload BEGIN setup END
+	ACTION_DEFINE_ARRAY fr_noconvert BEGIN END
+		LAF HANDLE_CHARSETS
+		INT_VAR
+		infer_charset = 1
+		STR_VAR
+		tra_path = EVAL ~%MOD_FOLDER%/lang~
+		noconvert_array = fr_noconvert
+		reload_array = fr_reload
+	END
 
 END
 
 
 LANGUAGE ~Francais~
 		 ~french~
-		 ~fr_ombre/TRA/French/R!O_FRA.tra~
+		 ~fr_ombre/lang/french/setup.tra~
 
-LANGUAGE ~Francais pour les editions EE~
-		 ~french~
-		 ~fr_ombre/TRA/French EE/R!O_FRA.tra~
+LANGUAGE ~Russian (translation by Gingerrr and Aerie.ru)~
+		 ~russian~
+		 ~fr_ombre/lang/russian/setup.tra~
+
+LANGUAGE ~English~
+		 ~english~
+		 ~fr_ombre/lang/english/setup.tra~
 
 
 /* ================================================= *
