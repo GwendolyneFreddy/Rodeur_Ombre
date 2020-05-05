@@ -233,6 +233,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 #### Version 1.2 ( Mai 2020)
 
+- Added component `DESIGNATED` number and "*rodeur_de_l_ombre*" `LABEL`. 
 - *frombre.2da*: Fixed wrong abilities labels per level.
 - Fixed a typo which prevented to load WeiDU *fl#add_kit_ee.tpa* library. 
 - Renamed RIOmb kit label to SHADOWRANGER.

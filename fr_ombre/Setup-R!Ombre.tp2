@@ -15,6 +15,7 @@ LANGUAGE ~Francais pour les editions EE~
  *  Profil de Rôdeur de l'ombre - Shadow Ranger kit  *
  * ================================================= */
 BEGIN @0
+DESIGNATED 0 LABEL ~rodeur_de_l_ombre~
 
 
 /* ------------- *
