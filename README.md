@@ -235,7 +235,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 - *frombre.2da*: Fixed wrong abilities labels per level.
 - Fixed a typo which prevented to load WeiDU *fl#add_kit_ee.tpa* library. 
-- Renamed RIOmb kit id to SHADOWRANGER.
+- Renamed RIOmb kit label to SHADOWRANGER.
 - Abilities: fixed wrong innate spell level (set to 1).
 - Completed and proofread kit description with missing features and requirements. Added lower cased kit name.
 - Replaced Rastor's mod prefix ("*r!*") with more accurate French community one ("*fr*").
