@@ -1,6 +1,6 @@
 
 ![Latest Release](https://img.shields.io/github/v/release/gwendolynefreddy/rodeur_ombre?include_prereleases&color=gold)<a name="top" id="top">
-![Platform](https://img.shields.io/static/v1?label=plateforme&message=windows&color=informational)
+![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macos%20%7C%20linux&color=informational)
 ![Language](https://img.shields.io/static/v1?label=langues&message=Anglais%20%7C%20Français%20%7C%20Russe&color=limegreen)
 
 <div align="center"><h1>Le Rôdeur de l'ombre</h1>
