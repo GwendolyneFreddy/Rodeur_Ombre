@@ -143,21 +143,22 @@ COPY ~fr_ombre/2da/lurio.2da~  ~override~
 // Détection des illusions
 // -----------------------
 COPY ~fr_ombre/spells/frrod01.spl~	~override~
-	SAY NAME1 @3
+	SAY NAME1 @21
 
 // Convocation d'ombres
 // --------------------
 COPY ~fr_ombre/spells/frrod02.spl~	~override~
-	SAY NAME1 @4
+	SAY NAME1 @22
 
 // Convocation de loup effrayant
 COPY ~fr_ombre/spells/frrod03.spl~	~override~
-	SAY NAME1 @5
+	SAY NAME1 @23
 
 // Bonus : +5 % se cacher dans l'ombre et déplacement silencieux
 // -------------------------------------------------------------
 COPY ~fr_ombre/spells/frrod04.spl~	~override~
-	SAY NAME1 @6
+	SAY NAME1 @24
+
 
 /* -------------- *
  *  Install HLAs  *
@@ -165,18 +166,18 @@ COPY ~fr_ombre/spells/frrod04.spl~	~override~
 
 // Convocation de l'ombre démoniaque
 // ---------------------------------
-COPY ~fr_ombre/chn/chnro01.spl~	~override~
-	SAY NAME1 @7
-	SAY UNIDENTIFIED_DESC @8
+COPY ~fr_ombre/chn/frrod11.spl~	~override~
+	SAY NAME1 @31
+	SAY UNIDENTIFIED_DESC @32
 
 // Fusion avec les ombres
 // ----------------------
-COPY ~fr_ombre/chn/chnro02.spl~	~override~
-	SAY NAME1 @9
-	SAY UNIDENTIFIED_DESC @10
+COPY ~fr_ombre/chn/frrod12.spl~	~override~
+	SAY NAME1 @33
+	SAY UNIDENTIFIED_DESC @34
 
 // Convocation de déva
 // -------------------
-COPY ~fr_ombre/chn/chnro03.spl~	~override~
-	SAY NAME1 @11
-	SAY UNIDENTIFIED_DESC @12
+COPY ~fr_ombre/chn/frrod13.spl~	~override~
+	SAY NAME1 @35
+	SAY UNIDENTIFIED_DESC @36
