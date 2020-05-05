@@ -1,6 +1,9 @@
 BACKUP ~fr_ombre/backup~
 AUTHOR ~esprit - duracuir@hotmail.com~
 
+VERSION ~v1.2~
+
+README ~fr_ombre/readme/fr_ombre-readme-%LANGUAGE%.html~ ~fr_ombre/readme/fr_ombre-readme-english.html~
 
 ALWAYS
 
@@ -15,7 +18,7 @@ ALWAYS
 	 * -----------------------------------------------------------------------*---------------------- */
 	ACTION_DEFINE_ARRAY fr_reload BEGIN setup END
 	ACTION_DEFINE_ARRAY fr_noconvert BEGIN END
-		LAF HANDLE_CHARSETS
+	LAF HANDLE_CHARSETS
 		INT_VAR
 		infer_charset = 1
 		STR_VAR

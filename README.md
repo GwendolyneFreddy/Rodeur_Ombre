@@ -5,13 +5,13 @@
 
 <div align="center"><h1>Le Rôdeur de l'ombre</h1>
 
-<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour Baldur's Gate II: ToB, BGT, BG2:EE et EET<h3>
+<h3>Un mod développé sur <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour Baldur's Gate II: ToB, BGT, BG:EE, BG2:EE, EET et IWD:EE<h3>
 
 </div><br />
 
 
-**Auteur(e) :** esprit  
-**Langues :** français, <a href="README_EN.md">anglais</a>  
+**Auteur :** esprit  
+**Langues :** français, <a href="README_EN.md">anglais</a>, russe  
 **Forum du mod :** <a href="https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12359-kit-rodeur-de-l-ombre-rodeur.html">Le Rôdeur de l'ombre</a><br /><br />
 
 
@@ -24,7 +24,7 @@
 
 ## <a name="intro" id="intro"></a>Présentation
 
-Courte description du mod : Ce mod... ou L'objet de ce mod...
+Ce mod installe un nouveau profil de rôdeur, réservé aux humains, elfes et demi-elfes, d'alignement loyal mauvais ou neutre mauvais, dans le jeu.
 
 &nbsp;
 
@@ -36,7 +36,7 @@ RÔDEUR DE L'OMBRE : Les rôdeurs de l'ombre forment une secte secrète affiliée au
 Avantages :
 
 - Aux niveaux 1, 6, 12, 18, 24, 30 et 36, il gagne la capacité Détection des illusions.
-- Aux niveaux 2, 6, 10, 14, 18, 22, 26, 30, 35 et 39, il obtient un bonus de 5 % en Déplacement silencieux et Se cacher l'ombre
+- Aux niveaux 2, 6, 10, 14, 18, 22, 26, 30, 35 et 39, il obtient un bonus de 5 % en Déplacement silencieux et Se cacher l'ombre.
 - Aux niveaux 10, 16, 22, 28 et 34, il gagne la capacité Convocation de loup de l'ombre majeur.
 - Aux niveaux 15, 21 et 27, il peut convoquer jusqu'à 3 ombres.
 
@@ -56,20 +56,11 @@ Désavantages :
 
 ## <a name="compat" id="compat"></a>Compatibilité
 
-Ce mod est conçu pour fonctionner sur les jeux Infinity Engine suivants : Baldur's Gate: Enhanced Edition (BGEE), Baldur's Gate II: Enhanced Edition (BG2EE), Icewind Dale: Enhanced Edition (IWDEE), ainsi que l'extension de BGEE, Siege of Dragonspear (SoD) ; le jeu original Baldur's Gate II avec son extension Trône de Bhaal (Throne of Bhaal : ToB) ; les mods de conversion <a href="http://www.shsforums.net/forum/261-bgt-weidu/">Baldur's Gate Trilogy (BGT)</a>, <a href="http://www.pocketplane.net/tutu/">Baldur's Gate Tutu (Tutu)</a>, Icewind Dale-in-Baldur's Gate II (IWD-in-BG2) et <a href="https://github.com/K4thos/EET/releases">Enhanced Edition Trilogy</a> (EET).
+Ce mod est conçu pour fonctionner sur les jeux Infinity Engine suivants : Baldur's Gate: Enhanced Edition (BGEE), Baldur's Gate II: Enhanced Edition (BG2EE), Icewind Dale: Enhanced Edition (IWDEE), ainsi que l'extension de BGEE, Siege of Dragonspear (SoD) ; le jeu original Baldur's Gate II avec son extension Trône de Bhaal (Throne of Bhaal : ToB) ; les mods de conversion <a href="http://www.shsforums.net/forum/261-bgt-weidu/">Baldur's Gate Trilogy (BGT)</a> et <a href="https://github.com/K4thos/EET/releases">Enhanced Edition Trilogy</a> (EET).
 
+Le Rôdeur de l'ombre est un mod WeiDU et devrait par conséquent être compatible avec n'importe quel mod WeiDU. Si vous rencontrez des bugs, veuillez les signaler dans <a href="https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12359-kit-rodeur-de-l-ombre-rodeur.html">le forum</a>, s'il vous plaît.
 
-Le Rôdeur de l'Ombre est un mod WeiDU et devrait par conséquent être compatible avec n'importe quel mod WeiDU. [facultatif : Il a été testé sur plusieurs installations et a fonctionné parfaitement jusqu'à présent.] Je ne peux cependant pas tous les tester. [Choisir une formule parmi les suivantes :] Si vous faites face à des bugs, veuillez contactez <a href="https://www.baldursgateworld.fr/lacouronne/Auteur.html">AUTEUR</a> ou bien poster dans les forums. Si vous faites face à des bugs, veuillez les signaler dans le forum, s'il vous plaît.
-
-Bien que je m'efforce de rendre Le Rôdeur de l'Ombre compatible avec le plus grand nombre possible de mods, des incompatibilités risquent toujours de se produire. Voici la liste de celles recensées jusqu'à présent :
-- mod 1
-- mod 2
-- ...
-
-
-#### Mods pré-requis
-
-[Choisir une formule parmi les suivantes : ]Bien qu'il ne soit pas requis pour faire correctement tourner Le Rôdeur de l'Ombre, il est toujours utile d'avoir installé la dernière version du <a href="http://www.gibberlings3.net/bg2fixpack/">BG2 Fixpack</a>. Je vous recommande fortement d'installer la dernière version du <a href="http://www.gibberlings3.net/bg2fixpack/">BG2 Fixpack</a> avant d'installer ce mod.<br>
+>Bien qu'il ne soit pas requis pour faire correctement tourner Le Rôdeur de l'ombre, je recommande fortement aux joueurs de ToB original de télécharger et d'installer la dernière version du <a href="http://www.gibberlings3.net/bg2fixpack/">BG2 Fixpack</a> avant d'installer ce mod.<br>
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
 
@@ -114,9 +105,9 @@ Vous pouvez lancer **`setup-fr_ombre.exe`** dans votre répertoire de jeu pour ré
 
 #### Mac OS X
 
-Le Rôdeur de l'Ombre pour Mac OS X est livré et installé avec WeiDU, et est diffusé sous forme d'archive compressée (tarball).
+Le Rôdeur de l'Ombre pour Mac OS X est livré et installé avec WeiDU, et est diffusé dans la même archive compressée.
 
-Extrayez le contenu du tarball dans votre répertoire de jeu. Après une extraction réussie, ce dernier contiendra les fichiers setup-fr_ombre, setup-fr_ombre.command, et le répertoire :file_folder: fr_ombre. Pour installer, il suffit de double-cliquer sur **`setup-fr_ombre.command`** et de suivre les instructions affichées à l'écran.
+Extrayez le contenu du l'archive dans votre répertoire de jeu. Après une extraction réussie, ce dernier contiendra les fichiers setup-fr_ombre, setup-fr_ombre.command, et le répertoire :file_folder: fr_ombre. Pour installer, il suffit de double-cliquer sur **`setup-fr_ombre.command`** et de suivre les instructions affichées à l'écran.
 
 Vous pouvez lancer **`setup-fr_ombre.command`** dans votre répertoire de jeu pour réinstaller, désinstaller ou changer des composants.
 
@@ -124,7 +115,7 @@ Vous pouvez lancer **`setup-fr_ombre.command`** dans votre répertoire de jeu pou
 
 #### Linux
 
-Le Rôdeur de l'Ombre pour Linux est diffusé sous forme d'archive compressée (tarball) sans l'installateur WeiDU.
+Le Rôdeur de l'Ombre pour Linux est diffusé dans la même archive compressée sans l'installateur WeiDU.
 
 Extrayez le contenu du mod dans le répertoire du jeu que vous voulez moder.
 
@@ -145,12 +136,7 @@ En plus des méthodes détaillées plus haut pour supprimer des composants, il est 
 
 ## <a name="components" id="components"></a>Composants
 
-Le programme d'installation comprend les composants suivants. Chacun possède un numéro distinct et pré-défini qui lui attribue une position déterminée (mot-clé *DESIGNATED* en langage WeiDU) ; ce qui permet aux autres composants de le détecter et aux utilitaires d'installation automatiques de préciser quels composants installer.<br /><br />
-
-
-#### 0. Profil de Rôdeur de l'ombre (composant principal)
-
-Description du composant principal.</br>
+Le programme d'installation comprend u seul composant, le composant principal.
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
 
@@ -159,7 +145,7 @@ Description du composant principal.</br>
 
 ## <a name="credits" id="credits"></a>Crédits et remerciements
 
-#### Auteur(e) : esprit
+#### Auteur : esprit
 
 ## 
 
@@ -167,11 +153,13 @@ Description du composant principal.</br>
 
 - L'équipe de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour l'hébergement de ce mod.
 - Les créateurs de la série Baldur's Gate : <a href="http://www.bioware.com/">Bioware</a> et <a href="http://www.obsidian.net/">Black Isle Studios</a>.
-- Deratiseur pour avoir réalisé la première version compatible EE.
-- Gingerrr and Aerie.ru pour la traduction russe.
+- Deratiseur pour avoir réalisé la première version compatible EE (v1.1).
+- Gingerrr et Aerie.ru pour la traduction russe.
 - The BiG World Textpack German project pour la traduction anglaise.
 - Merci à toutes les personnes des forums de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a>, <a href="http://gibberlings3.net/forums/">The Gibberlings Three</a>, <a href="http://www.shsforums.net/">Spellhold Studios</a>, et des autres communautés de joueurs et de moddeurs IE qui m'ont offert leur aide.
 
+- AL|EN: Wrote process which automatically provides Windows, Linux and Mac versions in the same archive file.
+- Deratiseur: Provided native EE compatible version (v3.5).
 ## 
 
 #### Logiciels et outils utilisés pour la réalisation de ce mod :
@@ -214,7 +202,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 <p>Note du traducteur : l'historique n'est volontairement pas traduit afin de faciliter la mise à jour par l'auteur.</p>
 
-#### Version 1.2 ( Mai 2020)
+#### Version 1.2 ( mai 2020)
 
 - Added *fr_ombre.ini* metadata file to support AL|EN's "Project Infinity".
 - Renamed *Setup-R!Ombre.tp2* -> *fr_ombre.tp2* to support AL|EN's "Project Infinity".
@@ -240,7 +228,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 ## 
 
-#### Version 1.1 (15 octobre 2018)
+#### Version 1.1 (3 août 2019)
 
 - Added native BG2:EE and EET compatibilities.
 - Removed useless backup folder.
@@ -248,7 +236,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 ## 
 
-#### Version beta 1.0 (13 octobre 2018)
+#### Version beta 1.0 (8 décembre 2004)
 
 - Sortie initiale.
 <div align="right"><a href="#top">Retour en haut de page</a></div>
