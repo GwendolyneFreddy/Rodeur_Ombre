@@ -235,6 +235,8 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 - Added missing `REQUIRE_PREDICATE` process to avoid installing the mod in inaccurate games. 
 - Added component `DESIGNATED` number and "*rodeur_de_l_ombre*" `LABEL`. 
+- Commented code as much as possible. 
+- Added Modmerge check for SoD games. 
 - *frombre.2da*: Fixed wrong abilities labels per level.
 - Fixed a typo which prevented to load WeiDU *fl#add_kit_ee.tpa* library. 
 - Renamed RIOmb kit label to SHADOWRANGER.

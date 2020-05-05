@@ -2,6 +2,16 @@ BACKUP ~fr_ombre/backup~
 AUTHOR ~esprit - duracuir@hotmail.com~
 
 
+ALWAYS
+
+	/* -------------------------- *
+	 *    Sod: Modmerge check.    *
+	 * -------------------------- */
+		ACTION_IF ((FILE_EXISTS ~dlc/sod-dlc.zip~) OR (FILE_EXISTS ~sod-dlc.zip~)) BEGIN FAIL @2 END
+
+END
+
+
 LANGUAGE ~Francais~
 		 ~french~
 		 ~fr_ombre/TRA/French/R!O_FRA.tra~
