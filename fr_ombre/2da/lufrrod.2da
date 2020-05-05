@@ -1,9 +1,9 @@
 2DA V1.0
 *
                   ABILITY         ICON       STRREF       MIN_LEV       MAX_LEVEL      NUM_ALLOWED      PREREQUISITE     EXCLUDED_BY       ALIGNMENT_RESTRICT
-Ability1          GA_CHNRO01      *          *            1             40             20               *                *                 *
-Ability2          GA_CHNRO02      *          *            1             40             20               *                *                 *
-Ability3          GA_CHNRO03      *          *            1             40             20               *                *                 *
+Ability1          GA_FRROD11      *          *            1             40             20               *                *                 *
+Ability2          GA_FRROD12      *          *            1             40             20               *                *                 *
+Ability3          GA_FRROD13      *          *            1             40             20               *                *                 *
 Ability4          GA_SPCL922      *          *            1             40             20               *                *                 *
 Ability5          GA_SPCL904      *          *            1             40             20               *                *                 *
 Ability6          GA_SPCL905      *          *            1             40             20               *                *                 *
