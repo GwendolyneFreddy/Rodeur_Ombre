@@ -160,13 +160,12 @@ Le programme d'installation comprend u seul composant, le composant principal.
 
 - L'équipe de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour l'hébergement de ce mod.
 - Les créateurs de la série Baldur's Gate : <a href="http://www.bioware.com/">Bioware</a> et <a href="http://www.obsidian.net/">Black Isle Studios</a>.
-- Deratiseur pour avoir réalisé la première version compatible EE (v1.1).
+- Dératiseur pour avoir réalisé la première version compatible EE (v1.1).
 - Gingerrr et Aerie.ru pour la traduction russe.
 - The BiG World Textpack German project pour la traduction anglaise.
+- AL|EN pour avoir écrit le script qui gén_re automatiquement un package unique pour Windows, Linux and Mac.
 - Merci à toutes les personnes des forums de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a>, <a href="http://gibberlings3.net/forums/">The Gibberlings Three</a>, <a href="http://www.shsforums.net/">Spellhold Studios</a>, et des autres communautés de joueurs et de moddeurs IE qui m'ont offert leur aide.
 
-- AL|EN: Wrote process which automatically provides Windows, Linux and Mac versions in the same archive file.
-- Deratiseur: Provided native EE compatible version (v3.5).
 ## 
 
 #### Logiciels et outils utilisés pour la réalisation de ce mod :
@@ -194,8 +193,6 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 ###### Ce mod a été créé pour être librement apprécié par tous les joueurs de Baldur's Gate II. Cependant, il ne doit pas être vendu, publié, compilé ou redistribué sous une forme quelconque sans le consentement de son auteur.
 ###### Veuillez noter que tout partage ou hébergement de ce mod est interdit sans la permission de l'auteur.
 
-###### S'il existe des problèmes de droits d'auteur ou si cette déclaration nécessite une révision, veuillez me contacter et conseillez-moi sur ce qu'il faut faire à ce sujet. Plus particulièrement, si vous trouvez dans ce mod des illustrations susceptibles d'être en conflit avec les règles de droit d'auteur, merci de bien vouloir me le faire savoir dès que possible et je supprimerai immédiatement le contenu en conflit.
-
 ###### La communauté de modding sur le moteur Infinity Engine a été très active depuis plus de quinze ans maintenant, et a produit des milliers d'heures de travail non rémunérées effectuées par des fans du jeu. Les moddeurs s'efforcent de publier le meilleur de leur travail, et les joueurs bénéficient des mods les plus performants et les mieux maintenus, à condition que nous travaillions tous dans le même sens.
 ###### Mais cette harmonie peut malheureusement être perturbée, principalement par deux comportements. Le premier, c'est de revendiquer le travail de quelqu'un d'autre. Le second consiste à héberger et à redistribuer un mod sans la permission de son(es) auteur(s).
 ###### Soyez assez sympa avec vos collègues joueurs et moddeurs. Ne le faites pas.</br></br>
@@ -209,7 +206,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 <p>Note du traducteur : l'historique n'est volontairement pas traduit afin de faciliter la mise à jour par l'auteur.</p>
 
-#### Version 1.2 ( mai 2020)
+#### Version 1.2 (6 mai 2020)
 
 - Added *fr_ombre.ini* metadata file to support AL|EN's "Project Infinity".
 - Renamed *Setup-R!Ombre.tp2* -> *fr_ombre.tp2* to support AL|EN's "Project Infinity".
@@ -237,7 +234,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 #### Version 1.1 (3 août 2019)
 
-- Added native BG2:EE and EET compatibilities.
+- Added native BG2:EE, BG:EE and IWD:EE compatibilities (by Dératiseur).
 - Removed useless backup folder.
 - Updated WeiDU installer to v246.
 

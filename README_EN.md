@@ -35,7 +35,7 @@ This mod adds a new ranger kit in the game, restricted to lawful evil or neutral
 
 &nbsp;
 
-<details><summary><ins>Description du profil</ins></summary>
+<details><summary><ins>Kit Description</ins></summary>
 <p>
 
 SHADOW RANGER: Shadow rangers are a secret sect of wanderers intimately affiliated with Shadow druids. They advocate the usage of powers of darkness and the shadows that inhabit them. They do not hesitate from resorting to Machiavellian schemes to achieve their goal. They usually pay homage to the dark goddess, Shar, and rumors say they whisper her name when they slit their target's throat in the darkness of the night. Shadow rangers are dangerous fighters who are able to call the shadows to their aid.
@@ -158,12 +158,10 @@ The installer includes one single component, the main component.
 
 - <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> team for hosting the mod.
 - The creators of the Baldur's Gate series: <a href="http://www.bioware.com/">Bioware</a> and <a href="http://www.obsidian.net/">Black Isle Studios</a>.
-- machin for permission to use blabla.
-- dugland for coding help.
-- trucmuche for coding help and suggestions.
-- bidule for dialogue help.
-- xxx for the French translation.
-- yyy for proofreading.
+- Dératiseur : Provided first native EE compatible version (v1.1).
+- Gingerrr and Aerie.ru: Provided Russian translation.
+- The BiG World Textpack German project: Provided English translation.
+- AL|EN: Wrote process which automatically provides Windows, Linux and Mac versions in the same archive file.
 - Everyone else from the <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a>, <a href="http://gibberlings3.net/forums/">The Gibberlings Three</a>, <a href="http://www.shsforums.net/">Spellhold Studios</a> forums, and the other Infinity Engine gaming and modding communities who offered their help and support.
 
 ## 
@@ -204,7 +202,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 
 ## <a name="versions" id="versions"></a>Version History
 
-#### Version 1.2 ( May, 2020)
+#### Version 1.2 (6 May, 2020)
 
 - Added *fr_ombre.ini* metadata file to support AL|EN's "Project Infinity".
 - Renamed *Setup-R!Ombre.tp2* -> *fr_ombre.tp2* to support AL|EN's "Project Infinity".
@@ -222,12 +220,17 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 - Completed and proofread kit description with missing features and requirements. Added lower cased kit name.
 - Added English translation (from the BiG World Textpack German project).
 - Added Russian translation (thanks to Gingerrr and Aerie.ru).
+- Wrote *fr_ombre-readme-english.html* and *fr_ombre-readme-french.html* readme files.
+- Lower cased files.
+- Replaced Rastor's mod prefix ("*r!*") with more accurate French community one ("*fr*").
+- Reorganized mod architecture tree: created folders to sort files according to their types and renamed top folder *r!ombre* -> *fr_ombre*.
+- Included Linux and Mac Os X versions in the same package (thanks AL|EN's Infinity Auto Packager tool!).
 
 ## 
 
 #### Version 1.1 (3 August, 2019)
 
-- Added native BG2:EE and EET compatibilities.
+- Added native BG2:EE, BG:EE and IWD:EE compatibilities (by Dératiseur).
 - Removed useless backup folder.
 - Updated WeiDU installer to v246.
 
