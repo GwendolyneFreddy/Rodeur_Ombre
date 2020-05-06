@@ -1,0 +1,4 @@
+- Summoning spells have only 60% chances of success!
+    - Was it intended?
+	- Should it be noticed in kit description?
+	- What about global effect #215?
