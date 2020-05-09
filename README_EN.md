@@ -18,7 +18,7 @@ Baldur's Gate Trilogy, EET, BG:EE and IWD:EE<h3>
 
 [Read the mod's readme](https://gwendolynefreddy.github.io/docs/lcc/rodeur_ombre-readme-english.html)
 
-[Téléchargez le mod sur La Couronne de Cuivre](http://www.baldursgateworld.fr/filesmods/ModsBG/rodeur-de-lombre-v1.2.zip)<br>
+[Télécharger le mod sur La Couronne de Cuivre](http://www.baldursgateworld.fr/filesmods/ModsBG/rodeur-de-lombre-v1.2.zip)<br>
 
 &nbsp;
 
