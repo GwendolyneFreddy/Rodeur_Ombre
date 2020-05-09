@@ -18,7 +18,7 @@ Baldur's Gate Trilogy, EET, BG:EE and IWD:EE<h3>
 
 [Lisez-moi du mod](http://gwendolynefreddy.github.io/docs/lcc/rodeur_ombre-readme-french.html)
 
-[Téléchargez le mod sur La Couronne de Cuivre]()<br>
+[Téléchargez le mod sur La Couronne de Cuivre](http://www.baldursgateworld.fr/filesmods/ModsBG/rodeur_ombre-v1.2.zip)<br>
 
 &nbsp;
 
@@ -31,9 +31,7 @@ Baldur's Gate Trilogy, EET, BG:EE and IWD:EE<h3>
 
 ## <a name="intro" id="intro"></a>Présentation
 
-Ce mod installe un nouveau profil de rôdeur, réservé aux humains, elfes et demi-elfes, d'alignement loyal mauvais ou neutre mauvais, dans le jeu.
-
-&nbsp;
+Ce mod installe dans le jeu un nouveau profil de rôdeur, réservé aux humains, elfes et demi-elfes, d'alignement loyal mauvais ou neutre mauvais.<br>
 
 <details><summary><ins>Description du profil</ins></summary>
 <p>
@@ -143,7 +141,7 @@ En plus des méthodes détaillées plus haut pour supprimer des composants, il est 
 
 ## <a name="components" id="components"></a>Composants
 
-Le programme d'installation comprend u seul composant, le composant principal.
+Le programme d'installation comprend un seul composant, le composant principal.
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
 
@@ -235,7 +233,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 #### Version 1.1 (3 août 2019)
 
 - Added native BG2:EE, BG:EE and IWD:EE compatibilities (by Dératiseur).
-- Removed useless backup folder.
+- Removed useless "*backup*" folder.
 - Updated WeiDU installer to v246.
 
 ## 

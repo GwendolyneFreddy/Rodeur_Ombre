@@ -16,9 +16,9 @@ Baldur's Gate Trilogy, EET, BG:EE and IWD:EE<h3>
 **Mod Website and Forum:** <a href="https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12359-kit-rodeur-de-l-ombre-rodeur.html">Le Rôdeur de l'ombre</a><br /><br />
 
 
-[Read the mod's readme](http://gwendolynefreddy.github.io/docs/lcc/rodeur_ombre-readme-english.html)
+[Read the mod's readme](https://gwendolynefreddy.github.io/docs/lcc/rodeur_ombre-readme-english.html)
 
-[Download the mod at La Couronne de Cuivre]()<br>
+[Téléchargez le mod sur La Couronne de Cuivre](http://www.baldursgateworld.fr/filesmods/ModsBG/rodeur_ombre-v1.2.zip)<br>
 
 &nbsp;
 
@@ -31,9 +31,7 @@ Baldur's Gate Trilogy, EET, BG:EE and IWD:EE<h3>
 
 ## <a name="intro" id="intro"></a>Overview
 
-This mod adds a new ranger kit in the game, restricted to lawful evil or neutral evil humans, elves and half-elves.
-
-&nbsp;
+This mod adds a new ranger kit in the game, restricted to lawful evil or neutral evil humans, elves and half-elves.<br>
 
 <details><summary><ins>Kit Description</ins></summary>
 <p>
@@ -231,7 +229,7 @@ Libre à vous de choisir la formule et la présentation qui vous conviennent :
 #### Version 1.1 (3 August, 2019)
 
 - Added native BG2:EE, BG:EE and IWD:EE compatibilities (by Dératiseur).
-- Removed useless backup folder.
+- Removed useless "*backup*" folder.
 - Updated WeiDU installer to v246.
 
 ## 
